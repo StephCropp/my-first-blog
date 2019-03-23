@@ -25,7 +25,7 @@ SECRET_KEY = '311@isdsb-ick-%g5zfb3phsu-$w#emf7v--fu6s1m4)*0@1vj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'cakeangel.pythonanywhere.com']
 
 
 # Application definition
